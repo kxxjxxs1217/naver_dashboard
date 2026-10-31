@@ -3,4 +3,7 @@ base = "light"
 backgroundColor = "#fcfcfb"
 secondaryBackgroundColor = "#f3f2ee"
 textColor = "#0b0b0b"
-primaryColor = "#2a78d6"
+primaryColor = "#52514e"
+
+[client]
+toolbarMode = "viewer"

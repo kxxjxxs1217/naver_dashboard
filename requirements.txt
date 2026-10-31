@@ -1,0 +1,4 @@
+# Streamlit 대시보드(app/dashboard.py) 실행에 필요한 패키지 — Streamlit Community Cloud가 이 파일을 설치한다
+streamlit==1.66.1
+pandas==3.1.0
+plotly==7.1.0
