@@ -1,0 +1,9 @@
+# API 키
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 로컬 전용 설정
+.claude/settings.local.json
